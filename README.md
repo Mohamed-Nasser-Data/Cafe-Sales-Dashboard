@@ -88,17 +88,9 @@ The dashboard includes multiple visuals to provide a comprehensive view of cafe 
 
 ---
 
-## 7. 📁 Files Included
-- `Cafe_Sales.xlsx` — Main dataset  
-- Excel & Power BI Dashboard file  
-- `images/dashboard.jpg` — Dashboard screenshot  
-- `README.md` — This file  
-
----
-
 ## 8. ✍️ About Me
 **Mohamed Nasser**  
 Data Analyst | BI Developer | Aspiring Data Scientist  
 
 [LinkedIn](https://www.linkedin.com/in/mohamednasser)  
-Email: *(ضع الإيميل لو تحب)*
+Email: mohamedhamasahhh@gmail.com
